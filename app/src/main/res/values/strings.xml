@@ -1,0 +1,7 @@
+
+    <resources>
+        <string name="app_name">Biodata</string>
+        <string name="about">About</string>
+        <string name="hobby">Hobby</string>
+        <string name="contact">Contact</string>
+    </resources>
